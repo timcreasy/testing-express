@@ -1,0 +1,18 @@
+{
+  "name": "testing-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "url": "git@github.com:timcreasy/testing-express.git",
+    "type": "git"
+  },
+  "author": "Tim Creasy <timcreasy@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
